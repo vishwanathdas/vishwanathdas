@@ -14,8 +14,9 @@
 
 - 📫 How to reach me: **Viswanathdas512@gmail.com**
 
--👨‍💻 All of my projects are available at [vishwanthdas.tech](vishwanthdas.tech)
+- 👨‍💻 All of my projects are available at [Github](Github)
 
+- 📫 My Portfolio Website: [Vishwanathdas.github.io](Vishwanathdas.github.io)
 <br>
 
 ## 🟢Coding Profile!
