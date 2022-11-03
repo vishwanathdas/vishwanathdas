@@ -21,10 +21,10 @@
 
 ## 🟢Coding Profile!
 
-<a href="https://www.hackerrank.com/vishwanathdas512" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/darshankparmar" /></a>
-<a href="https://www.codechef.com/users/vishwanathdas512" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/darshankparmar" /></a>
-<a href="https://codeforces.com/profile/vishwanathdas512" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/darshankparmar" /></a>
-<a href="https://leetcode.com/vishwanathdas512/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/darshankparmar/" /></a>
+<a href="https://www.hackerrank.com/vishwanathdas512" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/vishwanathdas" /></a>
+<a href="https://www.codechef.com/users/vishwanathdas" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/vishwanathdas" /></a>
+<a href="https://codeforces.com/profile/vishwanathdas" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/vishwanathdas" /></a>
+<a href="https://leetcode.com/vishwanathdas/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/vishwanathdas/" /></a>
 
 <br>
 
