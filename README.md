@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **Viswanathdas512@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vishwanathdas)
 
 - 📫 My Portfolio Website: [Vishwanathdas.github.io](Vishwanathdas.github.io)
 <br>
@@ -52,6 +52,17 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
 
+## 🚀 Operating System :
+ 
+<a href="https://kali.org/" target="_blank"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)" alt="Kali Linux" /> </a>
+<a href="https://linux.io/docs" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="linux" /> </a>
+<a href="https://macos.org" target="_blank"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)" alt="macos" /> </a>
+<a href="https://microsoft.com" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" alt="Windwos" /> </a>
+<a href="https://Ios.com" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)" alt="IOS" /> </a>
+<a href="https://andorid.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Windwos" /> </a>
+<a href="https://microsoft.com" target="_blank"> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Windwos" /> </a>
+
+
 <br>
 
 <div>
@@ -61,10 +72,10 @@
 
 ## Connect with me:
 
-<a href = "https://www.linkedin.com/in/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://twitter.com/darshankparmar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-<a href = "https://www.instagram.com/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
-<a href = "https://www.youtube.com/channel/UCFfOzjv9f09VMSZbMzPis2Q" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
+<a href = "https://www.linkedin.com/in/vishwanathdas/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://twitter.com/_vishwanathdas" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+<a href = "https://www.instagram.com/_vishwanathdas/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+<a href = "https://www.youtube.com/@vishwanathsir" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
 <a href = "mailto:vishwanathdas512@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 
 
